@@ -165,20 +165,3 @@ nav ul li{
 .lover-description{
      margin-left: 118px;
 }
-/*latest-Deals*/
-.latest-section{
-  justify-items: center;
-
-  
-}
-.latest-title{
-    font-size: 2.18rem;
-    font-weight: 700;
-    margin-top: -75px;
-}
-.latest-description{
-    font-size: 1.25rem;
-    margin-top: 15px;
-   text-align: center;
-
-}

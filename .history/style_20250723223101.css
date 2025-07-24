@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*shared style*/
+.display-flex{
+    display: flex;
+}
+
+/*dark 02*/
+.text-color{
+    color: 8987A1;
+}
+/*navbar start*/
+.nav-bar{
+   
+   
+    
+}
+.list-link{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+}

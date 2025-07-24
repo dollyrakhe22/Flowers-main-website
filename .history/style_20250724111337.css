@@ -117,7 +117,7 @@ nav ul li{
 #badge{
     width: 240px;
     height:240px;
-    margin-left: 443px;
+    margin-left: 343px;
     margin-bottom: -122px;
     position: relative;
 
@@ -147,8 +147,8 @@ nav ul li{
 
 
 .flower-plant img{
-    width: 590px;
-    height: 450px;
+    width: 540px;
+    height: 570px;
 }
 .lover-title{
     font-size: 50px;
@@ -164,21 +164,4 @@ nav ul li{
 }
 .lover-description{
      margin-left: 118px;
-}
-/*latest-Deals*/
-.latest-section{
-  justify-items: center;
-
-  
-}
-.latest-title{
-    font-size: 2.18rem;
-    font-weight: 700;
-    margin-top: -75px;
-}
-.latest-description{
-    font-size: 1.25rem;
-    margin-top: 15px;
-   text-align: center;
-
 }

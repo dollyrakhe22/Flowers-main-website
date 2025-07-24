@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/*shared style*/
+.display-flex{
+    display: flex;
+}
+/*black*/
+.text-black{
+    color:#252432;
+    font-weight: bold;
+}
+/*dark 02*/
+.text-gray{
+    color: #8987A1;
+}
+/*navbar start*/
+.nav-bar{
+   justify-content: space-between;
+   margin: 20px auto;
+   max-width: 1140px;
+   
+   
+   
+    
+}
+.list-link{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    
+    
+   
+}
+nav ul li{
+    list-style: none;
+    margin-right: 30px;
+}
+
+/*Fresh Flower*/
+.flower-section{
+    max-width: 100%;
+   margin: 30px;
+}
