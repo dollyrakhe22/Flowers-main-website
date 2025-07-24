@@ -199,14 +199,12 @@ nav ul li{
     color:white;
     padding: 180px;
     margin-left: 43px;
-     
+    font-size: 2.06rem;
+    font-weight: 700;  
 }
 */
 .zabo-title{
     color: white;
-    font-size: 2.06rem;
-    font-weight: 700; 
-
 }
 .card{
    background-repeat: no-repeat; 
@@ -230,8 +228,9 @@ nav ul li{
      margin-left: 20px;
      border-radius: 10px;
 }
-
-
+.zabo-shop{
+    font-size: 10px;
+}
 .row{
    display: grid;
  grid-template-columns: repeat(1,1fr); 
@@ -240,13 +239,7 @@ nav ul li{
 }
 .zabo-text {
     padding: 180px;
-    margin-top:-42px;
     
-}
-.zabo-shop{
-    font-size: 2rem;
-    margin-left:105px;
-    font-weight: 800;
 }
 .bloom-text{
    padding: 65px;
