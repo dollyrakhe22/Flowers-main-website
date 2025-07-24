@@ -377,19 +377,13 @@ input{
        flex-direction: column-reverse;
     
   }
-  .flower-img img{
-    
-    width: 285px;
-    margin-left:103px;
+  .flower-img{
+    max-width: 100%;
+    width: 950px;
    
   }
   .flower-title{
-    font-size:2rem;
-    margin: -35px  0px  -13px -115px;
-  }
-  .flower-description{
-    margin-right: -101px;
-    margin-left: -116px;
+    font-size:1.4rem;
   }
 
 
