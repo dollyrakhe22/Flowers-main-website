@@ -346,27 +346,9 @@ input{
     .nav-bar{
         width: 100%;
     }
-   .list-link{
-     flex-direction: column;
-     align-items: center;
-   }
-   .list-item{
-    display: none;
-   }
-   .shopping{
-       font-size: 2rem;
-       margin-bottom: 5px;
-   margin-top: 50px;
-   }
-   li img{
-    width: 50px;
-    height: 50px;
-   
-   }
-   li{
-       margin-bottom: 5px;
-   margin-top: 50px;
-   }
+    nav ul{
+        display: none;
+    }
 }
 
 
