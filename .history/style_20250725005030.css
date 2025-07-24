@@ -345,8 +345,6 @@ input{
 @media screen and (max-width:576px){
     .nav-bar{
         width: 100%;
-        margin: 24px auto;
-        margin-left: 36px;
     }
    .list-link{
      flex-direction: column;
@@ -356,9 +354,9 @@ input{
     display: none;
    }
    .shopping{
-       font-size: 1.80rem; 
-        margin-top: 48px;
-        margin-right: 80px;
+       font-size: 2rem;
+       margin-bottom: 5px;
+        margin-top: 50px;
    }
    li img{
     width: 20px;
