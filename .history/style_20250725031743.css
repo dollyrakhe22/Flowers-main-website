@@ -380,7 +380,7 @@ input{
   }
   .flower-img img{
     width: 285px; 
-    margin-left: -15px;
+    max-width: 100%;
    
   }
   .flower-title{
