@@ -100,7 +100,7 @@ nav ul li{
     margin-top: 10px;
 }
 .price{
-    font-size: 1.06rem;
+    font-size: 17px;
     font-weight: bold;
     margin-top: 10px;
 }
@@ -186,21 +186,15 @@ nav ul li{
 /*Latest-Deals-Box*/
 .bloom{
     color: white;
-    font-size: 1.2rem;
-    
+    font-size: 0.8rem;
 }
-   a{
+a{
      color:white;
      font-size: 0.8rem;
 
 }
 .zabo-font{
     color:white;
-    padding: 180px;
-    margin-left: 43px;
-    font-size: 2.06rem;
-    font-weight: 700;
-    
 }
 
 .card{
@@ -208,25 +202,20 @@ nav ul li{
 
    
 }
-.card {
+.card, a{
     text-align: center;
     justify-items: center;
     width: 360px;
     height:163px;
     margin-bottom: 19px;
-    margin-left: -105px;
-    border-radius: 10px;
+    margin-left: -112pz;
    
 }
 .zabo {
      background-repeat: no-repeat;  
-     width: 750px;
+     width: 600px;
      height: 345px;
      margin-left: 20px;
-     border-radius: 10px;
-}
-.zabo-shop{
-    font-size: 10px;
 }
 .row{
    display: grid;
@@ -234,98 +223,10 @@ nav ul li{
  
   
 }
-.zabo-text h2{
-    align-items: center;
-    justify-items: center;
-    justify-content: center;
-    
-}
-.bloom-text{
-   padding: 65px;
-}
-.shop{
-    font-size: 1.3rem;
-    margin-left:10px;
-}
+
+
 .latest-box{
     display: flex;
     margin: 50px 267px;
     width: 1140%;
-}
-/*Search Section*/
-.branch{
-    background-image: url(assets/news-letter-bg.png);
-    margin-bottom: 50px;
-    width: 1490px;
-    height:398px;
-    background-size: cover;
-    text-align: center;
-    padding: 170px;
-   
-}
-.input-data{
-   justify-content: center;
-}
-
-.branch-title{
-    font-size: 2.18rem;
-    color: white;
-}
-.wrapper{
-    padding: 22px;
-    
-}
-.input-data{
-    height: 39px;
-}
-input{
-    width: 540px;
-}
-.search-button{
-    background-color:#E95A08;
-    color: white;
-    border: none;
-    width: 130px;
-}
-/*Footer*/
-.footer{
-   max-width: 100%;
-   margin-bottom: 50px;
-
-}
-.footer-section{
-    margin: 6px 80px;
-    
-}
-.footer-description{
-    font-size: 1.25rem;
-    margin-top: 20px;
-}
-.footer-list{
-    margin: 60px;
-    margin-left: 100px;
-}
-.icon-list{
-    display: flex ;
-    justify-content: center;
-   
-}
-.list{
-         display: inline-flex;
-         gap: 10px;
-     
-         margin-left: 110px;
-}
-.social-icon{
-    margin-left: 120px;
-}
-.footer-list ul li{
-       list-style: none;
-}
-.footer-link{
-    line-height: 40px;
-    font-size: 1.125rem;
-}
-.social-icon img{
-    margin-right: 25px;
 }

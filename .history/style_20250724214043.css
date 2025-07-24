@@ -208,7 +208,7 @@ nav ul li{
 
    
 }
-.card {
+.card, a{
     text-align: center;
     justify-items: center;
     width: 360px;
@@ -224,9 +224,6 @@ nav ul li{
      height: 345px;
      margin-left: 20px;
      border-radius: 10px;
-}
-.zabo-shop{
-    font-size: 10px;
 }
 .row{
    display: grid;

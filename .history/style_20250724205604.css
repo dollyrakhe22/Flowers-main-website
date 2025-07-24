@@ -186,8 +186,7 @@ nav ul li{
 /*Latest-Deals-Box*/
 .bloom{
     color: white;
-    font-size: 1.2rem;
-    
+    font-size: 0.8rem;
 }
    a{
      color:white;
@@ -196,10 +195,6 @@ nav ul li{
 }
 .zabo-font{
     color:white;
-    padding: 180px;
-    margin-left: 43px;
-    font-size: 2.06rem;
-    font-weight: 700;
     
 }
 
@@ -208,7 +203,7 @@ nav ul li{
 
    
 }
-.card {
+.card, a{
     text-align: center;
     justify-items: center;
     width: 360px;
@@ -225,9 +220,6 @@ nav ul li{
      margin-left: 20px;
      border-radius: 10px;
 }
-.zabo-shop{
-    font-size: 10px;
-}
 .row{
    display: grid;
  grid-template-columns: repeat(1,1fr); 
@@ -239,14 +231,9 @@ nav ul li{
     justify-items: center;
     justify-content: center;
     
+  
 }
-.bloom-text{
-   padding: 65px;
-}
-.shop{
-    font-size: 1.3rem;
-    margin-left:10px;
-}
+
 .latest-box{
     display: flex;
     margin: 50px 267px;
@@ -324,8 +311,5 @@ input{
 }
 .footer-link{
     line-height: 40px;
-    font-size: 1.125rem;
-}
-.social-icon img{
-    margin-right: 25px;
+    font-size: 10px;
 }

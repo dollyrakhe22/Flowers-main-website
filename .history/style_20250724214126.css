@@ -225,9 +225,6 @@ nav ul li{
      margin-left: 20px;
      border-radius: 10px;
 }
-.zabo-shop{
-    font-size: 10px;
-}
 .row{
    display: grid;
  grid-template-columns: repeat(1,1fr); 
