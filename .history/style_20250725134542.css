@@ -404,7 +404,7 @@ input{
     width: 400px;
 }
 
-
+}
 /*plant section end*/
 .card-container{
     grid-template-columns: repeat(2,1fr);
@@ -413,25 +413,16 @@ input{
     margin: 45px auto;
 }
 .plant-card img{
-    max-width:300px;
-   width: 161px;
-   height: 197px;
-   margin-top: 50px;
-   margin-left: 20px;
-
-
-}
-  .btn{
-  
-   width: 160px;
-   height: 52px;
-   margin-top: 8px;
-   margin-bottom: -30px;
-   margin-left: 21px;
-
+   width:60px
 }
 
+.plant-card img{
+    width:100%;
 }
+
+
+
+
 
 
 

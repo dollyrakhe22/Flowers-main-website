@@ -413,23 +413,15 @@ input{
     margin: 45px auto;
 }
 .plant-card img{
-    max-width:300px;
-   width: 161px;
-   height: 197px;
-   margin-top: 50px;
-   margin-left: 20px;
-
-
+   width:60px
 }
-  .btn{
-  
-   width: 160px;
-   height: 52px;
-   margin-top: 8px;
-   margin-bottom: -30px;
-   margin-left: 21px;
 
+.plant-card img{
+
+    max-width:100%;
 }
+
+
 
 }
 
