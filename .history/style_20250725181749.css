@@ -136,7 +136,7 @@ nav ul li{
      width: 1250px;
 
 }
-.plant-about{
+.plan-about{
     margin-left: -5px;
     width: 300px;
     margin-right: 268px;
@@ -436,54 +436,25 @@ input{
     display: none;
 }
 .flower-plant img{
-           width: 373px;
-           height: 355px;
-           margin-top: 55px;
-           margin-right: 254px;
-           margin-left: -151px;
-}
-.flower-plant{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
-   
-}
-.lover-title{
-    font-size: 1.8rem;
-    margin-top: 23px;
-    margin-left: -121px;
-}
-.lover-description{
-    font-size: 1.25rem;
-  margin-left:-144px;
-  width: 370px;
-  margin-top: 40px;
 
 }
-.lover-description li{
-    margin-top: 11px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 }
-
-
-
-
-
-
-    
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

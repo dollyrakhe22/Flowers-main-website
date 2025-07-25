@@ -436,38 +436,23 @@ input{
     display: none;
 }
 .flower-plant img{
-           width: 373px;
-           height: 355px;
+           width: 400px;
+           height: 415px;
            margin-top: 55px;
-           margin-right: 254px;
-           margin-left: -151px;
+           margin-right:188px;
 }
 .flower-plant{
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
+    flex-direction:row-reverse;
    
 }
-.lover-title{
-    font-size: 1.8rem;
-    margin-top: 23px;
-    margin-left: -121px;
-}
-.lover-description{
-    font-size: 1.25rem;
-  margin-left:-144px;
-  width: 370px;
-  margin-top: 40px;
 
-}
-.lover-description li{
-    margin-top: 11px;
-}
-
-
-
-
-
-
+.plant-about{
+    margin-left: -5px;
+    width: 100px;
+    margin-right: 200px;
+    justify-content: center;
+    justify-items: center;
+    
     
 }
 
@@ -483,7 +468,7 @@ input{
 
 
 
-
+}
 
 
 

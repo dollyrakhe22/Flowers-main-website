@@ -440,7 +440,7 @@ input{
            height: 355px;
            margin-top: 55px;
            margin-right: 254px;
-           margin-left: -151px;
+           margin-left: -116px;
 }
 .flower-plant{
     display: grid;
@@ -450,11 +450,11 @@ input{
 .lover-title{
     font-size: 1.8rem;
     margin-top: 23px;
-    margin-left: -121px;
+    margin-left: -159px;
 }
 .lover-description{
     font-size: 1.25rem;
-  margin-left:-144px;
+  margin-left:-100px;
   width: 370px;
   margin-top: 40px;
 

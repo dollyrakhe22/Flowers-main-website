@@ -436,11 +436,11 @@ input{
     display: none;
 }
 .flower-plant img{
-           width: 373px;
-           height: 355px;
+           width: 375px;
+           height: 424px;
            margin-top: 55px;
            margin-right: 254px;
-           margin-left: -151px;
+           margin-left: 12px;
 }
 .flower-plant{
     display: grid;
@@ -450,18 +450,15 @@ input{
 .lover-title{
     font-size: 1.8rem;
     margin-top: 23px;
-    margin-left: -121px;
+    margin-left: 200px;
 }
 .lover-description{
     font-size: 1.25rem;
-  margin-left:-144px;
-  width: 370px;
-  margin-top: 40px;
+    margin-top: 30px;
+    margin: 21px;
+    width: 400px;
+}
 
-}
-.lover-description li{
-    margin-top: 11px;
-}
 
 
 
