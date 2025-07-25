@@ -382,7 +382,7 @@ input{
   .flower-img img{
     width: 403px; 
     margin-left: 4px;
-    
+    max-width: 206%;
    
   }
   .flower-title{
@@ -403,7 +403,7 @@ input{
 }
 .plant-description{
     width: 400px;
-
+    
 }
 
 
@@ -416,8 +416,8 @@ input{
 }
 .plant-card img{
     max-width:300px;
-   width: 210px;
-   height: 225px;
+   width: 161px;
+   height: 197px;
    margin-top: 50px;
    margin-left: 20px;
 
@@ -425,7 +425,7 @@ input{
 }
   .btn{
   
-   width: 200px;
+   width: 160px;
    height: 52px;
    margin-top: 8px;
    margin-bottom: -30px;
