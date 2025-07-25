@@ -414,20 +414,20 @@ input{
     margin: 45px auto;
 }
 .plant-card img{
-   width: 172px;
-   height: 200px;
+   width: 210px;
+   height: 225px;
    margin-top: 50px;
-   margin-left: 9px;
+   margin-left: 20px;
 
 
 }
   .btn{
   
-   width: 177px;
+   width: 200px;
    height: 52px;
-   margin-top: 10px;
-   margin-bottom: -67px;
-   margin-left: 12px;
+   margin-top: 8px;
+   margin-bottom: -30px;
+   margin-left: 21px;
 
 }
 .lily,.price{
