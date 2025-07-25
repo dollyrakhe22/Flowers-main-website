@@ -523,23 +523,20 @@ body{
 }
 .plant-about
 { 
- margin-left: -78px;
+    
 }
 
 
 .lover-title{
-   font-size: 1.6rem;
-   margin-left:35px;
-   margin-top: 24px;
+   font-size: 1.4rem;
+   width: 20%;
 }
 
 .lover-description{
-  margin-left: 10px;
+  
 
 }
-.lover-description li{
-    margin-top: 10px;
-}
+
 
 
 

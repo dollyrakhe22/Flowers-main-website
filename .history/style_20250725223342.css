@@ -5,9 +5,7 @@
     margin: 0;
     padding: 0;
 }
-body{
-    overflow-x: hidden;
-}
+
 .noto-serif-normal{
   font-family: "Noto Serif", serif;
   font-optical-sizing: auto;
@@ -396,9 +394,7 @@ input{
     margin-right: -101px;
     margin-left: -116px;
   }
-body{
-    overflow-x: hidden;
-}
+
 /*Fresh Flower End*/
 
 .plants-section{
@@ -436,24 +432,6 @@ body{
 }
 
 /*Plant-Card End*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*latest deals*/
 
 .latest-section{
@@ -473,6 +451,7 @@ body{
 
 
 
+}
 
 
 
@@ -505,8 +484,7 @@ body{
 
 
 
-
-/*Plant-Card End*/
+/*Plant-Card End*
 
 
 #badge{
@@ -516,30 +494,26 @@ body{
     flex-direction: column;
 }
 .flower-plant img{
-  max-width: 100%;
-  height:auto;
-  margin-left: -159px;
-  margin-top:40px;
+   width: 298%;
+   height: 325%;
+   margin-left:-112px;
+   margin-top:40px
 }
-.plant-about
-{ 
- margin-left: -78px;
-}
-
 
 .lover-title{
-   font-size: 1.6rem;
-   margin-left:35px;
-   margin-top: 24px;
+    font-size: 1.5rem;
+    margin-top: 21px;
+    margin-left: -329px;
 }
 
 .lover-description{
-  margin-left: 10px;
+    font-size: 1.25rem;
+  margin-left:-388px;
+  width: 370px;
+  margin-top: 40px;
 
 }
-.lover-description li{
-    margin-top: 10px;
-}
+
 
 
 

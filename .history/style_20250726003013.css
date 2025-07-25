@@ -518,28 +518,23 @@ body{
 .flower-plant img{
   max-width: 100%;
   height:auto;
-  margin-left: -159px;
-  margin-top:40px;
 }
-.plant-about
-{ 
- margin-left: -78px;
+.plant-about{
+    margin-left: -159px;
+    margin-top: 40ox;
+    max-width: 100%;
+
 }
-
-
 .lover-title{
-   font-size: 1.6rem;
-   margin-left:35px;
-   margin-top: 24px;
+   font-size: 1.4rem;
+   width: 20%;
 }
 
 .lover-description{
-  margin-left: 10px;
+  
 
 }
-.lover-description li{
-    margin-top: 10px;
-}
+
 
 
 
