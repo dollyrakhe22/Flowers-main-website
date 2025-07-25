@@ -403,8 +403,7 @@ input{
 
 }
 .plant-description{
-         width:315px;
-         max-width: 260%;
+         max-width: 200%;;
 }
 
 }
