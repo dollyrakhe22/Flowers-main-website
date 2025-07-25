@@ -379,9 +379,9 @@ input{
     
   }
   .flower-img img{
-    width: 352px; 
-    margin-left: 26px;
-    max-width: 206%;
+    width: 285px; 
+    margin-left: 110px;
+    max-width: 100%;
    
   }
   .flower-title{
