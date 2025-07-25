@@ -175,7 +175,7 @@ nav ul li{
 .latest-title{
     font-size: 2.18rem;
     font-weight: 700;
-    margin-top: 16px;
+    margin-top: -75px;
 }
 .latest-description{
     font-size: 1.25rem;
@@ -436,7 +436,6 @@ input{
 
 .latest-section{
     margin:40px;
-    margin-top: 15px;
 }
 
 
