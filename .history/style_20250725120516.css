@@ -83,7 +83,6 @@ nav ul li{
 
 }
 /*Plant-Card-Container*/
-
 .card-container{
     max-width: 1150px;
     margin: 45px auto;
@@ -381,7 +380,7 @@ input{
   }
   .flower-img img{
     width: 403px; 
-    margin-left: 4px;
+    margin-left: 26px;
     max-width: 206%;
    
   }
@@ -404,21 +403,16 @@ input{
     width: 400px;
 }
 
-
-/*plant section end*/
-.card-container{
-    grid-template-columns: repeat(2,1fr);
-    margin-top: 115px;
-     max-width: 1150px;
-    margin: 45px auto;
-}
-.plant-card img{
-   width:60px
 }
 
 
 
-}
+
+
+
+
+
+
 
 
 

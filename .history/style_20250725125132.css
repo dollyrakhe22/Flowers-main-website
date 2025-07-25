@@ -408,13 +408,8 @@ input{
 /*plant section end*/
 .card-container{
     grid-template-columns: repeat(2,1fr);
-    margin-top: 115px;
-     max-width: 1150px;
-    margin: 45px auto;
 }
-.plant-card img{
-   width:60px
-}
+
 
 
 

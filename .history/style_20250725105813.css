@@ -83,7 +83,6 @@ nav ul li{
 
 }
 /*Plant-Card-Container*/
-
 .card-container{
     max-width: 1150px;
     margin: 45px auto;
@@ -380,9 +379,9 @@ input{
     
   }
   .flower-img img{
-    width: 403px; 
-    margin-left: 4px;
-    max-width: 206%;
+    width: 407px; 
+    margin-left: -24px;
+    max-width: 254%;
    
   }
   .flower-title{
@@ -394,36 +393,23 @@ input{
     margin-left: -116px;
   }
 
-/*Fresh Flower End*/
-
-.plants-section{
-    text-align: center;
-    margin: -60px;
-}
-.plant-description{
-    width: 400px;
-}
-
-
-/*plant section end*/
-.card-container{
-    grid-template-columns: repeat(2,1fr);
-    margin-top: 115px;
-     max-width: 1150px;
-    margin: 45px auto;
-}
-.plant-card img{
-   width:60px
-}
 
 
 
-}
+
+
+
+
+
+
+
+
 
 
 
 
 
+}
 
 
 
