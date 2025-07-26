@@ -514,28 +514,28 @@ body{
 }
 .flower-plant{
     flex-direction: column;
-    margin: 163px 210px;
+    margin: 20px 40px;
 }
 .flower-plant img{
-  max-width: 268%;
+  max-width: 100%;
   height:auto;
-  margin-left: -222px;
+  margin-left: -159px;
   margin-top:40px;
 }
 .plant-about
 { 
- margin-left: -131px;
+ margin-left: -78px;
 }
 
 
 .lover-title{
-   font-size: 1.8rem;
+   font-size: 1.6rem;
    margin-left:35px;
    margin-top: 24px;
 }
 
 .lover-description{
-  margin-left: 5px;
+  margin-left: 10px;
 
 }
 .lover-description li{
