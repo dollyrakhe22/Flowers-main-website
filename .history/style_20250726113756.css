@@ -388,18 +388,13 @@ input{
        margin-top: 40px;
     
   }
-  .flower-section{
-    max-width: 100%;
-   margin: 0;
-   gap: 0;
-}
   .flower-img img{
    
    
   }
   .flower-title{
     font-size:1.50rem;
-    
+    margin: -35px  0px  -13px -115px;
   }
   .flower-description{
     margin-right: -101px;

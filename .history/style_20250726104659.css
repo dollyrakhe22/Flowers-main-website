@@ -388,18 +388,15 @@ input{
        margin-top: 40px;
     
   }
-  .flower-section{
-    max-width: 100%;
-   margin: 0;
-   gap: 0;
-}
   .flower-img img{
-   
+    max-width: 265px; 
+    margin-left: px;
+    
    
   }
   .flower-title{
     font-size:1.50rem;
-    
+    margin: -35px  0px  -13px -115px;
   }
   .flower-description{
     margin-right: -101px;
@@ -596,8 +593,7 @@ img {
 }
 
 .container, .home-section, .product-container, .hero, .flower-plant, .latest-box, header, footer, section {
- 
-    max-width: 100vw;
+  max-width: 100vw;
   overflow-x: hidden;
 }
 
@@ -608,24 +604,22 @@ img {
   justify-content: center;
   align-items: center;
 }
-/*
+
 p, h1, h2, h3, h4, span {
   word-break: break-word;
 }
-*/
+
 .card {
   width: 100%;
   max-width: 300px;
   margin: 10px;
 }
-}
-/*
+
 @media (max-width: 768px) {
   .card, .flower-box, .latest-box {
     width: 100% !important;
   }
 }
-
 }
 /*
 
