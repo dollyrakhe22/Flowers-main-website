@@ -412,8 +412,7 @@ body{
 }
 .plant-description{
        margin:0;
-       padding:0;  
-       padding:32px;   
+       padding:0;     
 
 }
 
@@ -421,10 +420,8 @@ body{
 .card-container{
     grid-template-columns: repeat(2,1fr);
     margin-top: 115px;
-    margin:18px auto;
-    /* max-width: 1150px;*/
-    
-   /* margin: 45px auto;*/
+     max-width: 1150px;
+    margin: 45px auto;
 }
 .plant-card img{
    width: 172px;
@@ -521,23 +518,19 @@ body{
 #badge{
     display: none;
 }
-.badge-container{
-    margin-top: -147px;
-}
 .flower-plant{
     flex-direction: column;
-    margin: 35px 1px;
+    margin: 163px 210px;
 }
 .flower-plant img{
-  max-width: 195%;
+  max-width: 268%;
   height:auto;
-  margin-left: -39px;
-  margin-top:83px;
-  margin-right: 326px;
+  margin-left: -222px;
+  margin-top:40px;
 }
 .plant-about
 { 
- margin-left: 84px;
+ margin-left: -131px;
 }
 
 
@@ -549,7 +542,6 @@ body{
 
 .lover-description{
   margin-left: 5px;
-  font-size:1.2rem;
 
 }
 .lover-description li{
@@ -571,20 +563,6 @@ body{
 
 
 
-
-body{
-    overflow-x: hidden;
-    max-width: 100%;
-}
-img{
-    max-width: 100%;
-    height: auto;
-    display: block;
-
-}
-section,header,footer,.container{
-    overflow-x: hidden;
-}
 
 
 }
