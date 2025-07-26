@@ -420,7 +420,6 @@ body{
        padding:0;  
        padding:32px;  
        width: 429px; 
-       font-size:1rem;
 
 }
 
@@ -486,9 +485,40 @@ body{
      height: 200%;
     
 }
-.latest-description{
-    font-size: 1rem;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*Plant-Card End*/
@@ -527,7 +557,6 @@ body{
   margin-left: -49px;
   font-size:1rem;
   width:312px;
-  
 
 }
 .lover-description li{
